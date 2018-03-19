@@ -26,48 +26,36 @@
     - 3. Media Manipulation: Manipulation and the relation of variables to "paint" a picture or experience. The participants ability to create change.
     - Preformance with constraints
     - Strengths of both live preformance and media -> the intangible relations of how live vs. personal tech experiences formulate different feelings or emotions towards a preformance or moment
-    </br> A more meaningful intereractive preformance between the preformer and the audience.
-    </br> Incorporating media without comprimising the spontenaity of live Preformance
-    </br> Agents- Preformers, Technology
-    </br> Outside Agents- Audience
-    </p1>
-    </fieldset>
-    </div>
+    - A more meaningful intereractive preformance between the preformer and the audience.
+    - Incorporating media without compromising the sponteneity of live Preformance
+    - Agents- Preformers, Technology
+    - Outside Agents- Audience
 
-<fieldset>
-<p1> 1/27 </p1>
-<p1> <b> Interactivity and Liveness in Electraucoustic Concert Music by Mike Frengel </b>
-</br> The concept and interaction of electrical facilitators and their ability to interect and control or react to live preformance.
-</br> Agents: Live preformer, electronics, and spectators
-</br> Attributes of live preformance:
-<ul>
-</br><li> <i> Virtuosity: </i> Outstanding preformance that is beyonf the norm. Mastery of motor and musical language. The control and combination
-</br> of such mastery skills provide an enticing and perceptually overwelmign experience. </li>
-</br><li> <i> Fallibility: </i> Mythos. The ability to fail and literally fall is a characteristic to liv preormance that makes it human and has the
-</br> audience sitting on the edge of theri seat waiting to watch this obstacle being overcome. </li>
-</br><li> <i> Spontaneous Variability: </i> The evolution and individual characteristics each artist/ preformer brings forth. </li>
-</br><li> <i> The influence of visual cues: </i> Workign with music in particular, the ability to create a story and mimic the storyline or the music to create a
-</br> succinct preformance. All of the above factors placed into a preformance, allow for the appeal of live preformance. The process produces
-</br> a product whether that be a good or bas reaction. Overall, live preformance alone is visually, mentally and physically stimulating and when you add a factor
-</br> in such as electronics, adds to the works complexity and also adds another stimulating factor in, "how'd- they- do- it?".</li>
-</br><li> <i> Presence: </i> "physical copresence of preformers and audience; temporal simultaneity and reception; experience in the moment" (Frengel, 2) </li>
-</br><li> "how'd- they- do- it?": A shift of atention towards function and allowing a spectator to see and inderstand the "human- machine interaction". </li>
-</ul>
-</p1>
-</br>
-<p1> Electroaucoustics:
-</br>  Typically don't involve a live preformer on stage
-</br>  What can be gained when sound sounrces and mechanics cannot be seen?
-</br>  When preformers are involved, a lot of coordination has to take place as there is highly limited flexibility.
-</br>  Electroaucoustic music tries to free the preformer from these constraints.
-</p1>
-</br>
-</br>
-<p1> The Instrumental Model:
-</br> The use of an instrument to create a more organic process, product interaction. This provides a certain level of consistency
-</br> as well to help develop, express, and react.
-</p1>
-</fieldset>
+
+#### 1/27
+1. Interactivity and Liveness in Electro- acoustic Concert Music by Mike Frengel
+- The concept and interaction of electrical facilitators and their ability to interact and control or react to live preformance.
+- Agents: Live preformermance, electronics, and spectators
+- Attributes of live preformance:
+  1. Virtuosity: Outstanding preformance that is beyond the norm. Mastery of motor and musical language. The control and combination
+    - of such mastery skills provide an enticing and perceptually overwelming experience.
+  2. Fallibility: Mythos. The ability to fail and literally fall is a characteristic to liv preormance that makes it human and has the
+    audience sitting on the edge of their seat waiting to watch this obstacle being overcome.
+  3. Spontaneous Variability: The evolution and individual characteristics each artist/ preformer brings forth.
+    - The influence of visual cues: Working with music in particular, the ability to create a story and mimic the storyline or the music to create a
+      succinct preformance. All of the above factors placed into a preformance, allow for the appeal of live preformance. The process produces
+      a product whether that be a good or bas reaction. Overall, live preformance alone is visually, mentally and physically stimulating and when you add a factor in such as electronics, adds to the works complexity and also adds another stimulating factor in, "how'd- they- do- it?".
+  4. Presence: </i> "physical copresence of preformers and audience; temporal simultaneity and reception; experience in the moment" (Frengel, 2)
+    "how'd- they- do- it?": A shift of atention towards function and allowing a spectator to see and inderstand the "human- machine interaction".
+  5. Electroaucoustics:
+    - Typically don't involve a live preformer on stage
+    - What can be gained when sound sounrces and mechanics cannot be seen?
+    - When preformers are involved, a lot of coordination has to take place as there is highly limited flexibility.
+    - Electroaucoustic music tries to free the preformer from these constraints.
+  6. The Instrumental Model:
+    - The use of an instrument to create a more organic process, product interaction. This provides a certain level of consistency
+    - as well to help develop, express, and react.
+
 
 <fieldset>
 <p1> 1/28 </p1>
