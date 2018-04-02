@@ -5,257 +5,214 @@
 ### Class Notes and Readings
 
 #### 1/22
-1. What Is Interactive Preformance?
+1. What Is Interactive Performance?
    - Agents- artist, artwork, audience
       - flow of communication:
         - reactive system vs. interactive system
         - 2 agents that are able to interact and engage with other agents.
-      - Preformance:
+      - Performance:
         - Music, Theatre, Dance, Circus, Sports (Social Media)
       - Interaction
-      - Human and Computer, Artist is the Preformer, Audience is the Preformer, Tech and Tech, Interpersonal Interactions and Media (Accidental/ Intentional)
+      - Human and Computer, Artist is the Performer, Audience is the Performer, Tech and Tech, Interpersonal Interactions and Media (Accidental/ Intentional)
 
 #### 1/23
 1. Live Media: Interactive Technology and Theatre Notes
     - Interactivity -> Live
-      - "Sounds and images stored that will produce a response in a live preformer's actions"
+      - "Sounds and images stored that will produce a response in a live performer's actions"
     - Linear media? </i> -> devices (cd, vcr, etc.) -> Reactive systems
     - 1. Random Access: The use of various inputs and outputs and being able to have control and manipulation over the content.
     - 2. Trigger and Output: Coordinated control of multiple media elements.
       -> Inputs and outputs (aka mapping) -> many to many, many to one, one to one
     - 3. Media Manipulation: Manipulation and the relation of variables to "paint" a picture or experience. The participants ability to create change.
-    - Preformance with constraints
-    - Strengths of both live preformance and media -> the intangible relations of how live vs. personal tech experiences formulate different feelings or emotions towards a preformance or moment
-    - A more meaningful intereractive preformance between the preformer and the audience.
-    - Incorporating media without compromising the sponteneity of live Preformance
-    - Agents- Preformers, Technology
+    - Performance with constraints
+    - Strengths of both live performance and media -> the intangible relations of how live vs. personal tech experiences formulate different feelings or emotions towards a performance or moment
+    - A more meaningful interactive performance between the performer and the audience.
+    - Incorporating media without compromising the spontaneity of live Performance
+    - Agents- Performers, Technology
     - Outside Agents- Audience
 
 
 #### 1/27
 1. Interactivity and Liveness in Electro- acoustic Concert Music by Mike Frengel
-- The concept and interaction of electrical facilitators and their ability to interact and control or react to live preformance.
-- Agents: Live preformermance, electronics, and spectators
-- Attributes of live preformance:
-  1. Virtuosity: Outstanding preformance that is beyond the norm. Mastery of motor and musical language. The control and combination
-    - of such mastery skills provide an enticing and perceptually overwelming experience.
-  2. Fallibility: Mythos. The ability to fail and literally fall is a characteristic to liv preormance that makes it human and has the
+- The concept and interaction of electrical facilitators and their ability to interact and control or react to live performance.
+- Agents: Live performance, electronics, and spectators
+- Attributes of live performance:
+  1. Virtuosity: Outstanding performance that is beyond the norm. Mastery of motor and musical language. The control and combination
+    - of such mastery skills provide an enticing and perceptually overwhelming experience.
+  2. Fallibility: Mythos. The ability to fail and literally fall is a characteristic to liv performance that makes it human and has the
     audience sitting on the edge of their seat waiting to watch this obstacle being overcome.
-  3. Spontaneous Variability: The evolution and individual characteristics each artist/ preformer brings forth.
+  3. Spontaneous Variability: The evolution and individual characteristics each artist/ performer brings forth.
     - The influence of visual cues: Working with music in particular, the ability to create a story and mimic the storyline or the music to create a
-      succinct preformance. All of the above factors placed into a preformance, allow for the appeal of live preformance. The process produces
-      a product whether that be a good or bas reaction. Overall, live preformance alone is visually, mentally and physically stimulating and when you add a factor in such as electronics, adds to the works complexity and also adds another stimulating factor in, "how'd- they- do- it?".
-  4. Presence: </i> "physical copresence of preformers and audience; temporal simultaneity and reception; experience in the moment" (Frengel, 2)
-    "how'd- they- do- it?": A shift of atention towards function and allowing a spectator to see and inderstand the "human- machine interaction".
-  5. Electroaucoustics:
-    - Typically don't involve a live preformer on stage
-    - What can be gained when sound sounrces and mechanics cannot be seen?
-    - When preformers are involved, a lot of coordination has to take place as there is highly limited flexibility.
-    - Electroaucoustic music tries to free the preformer from these constraints.
+      succinct performance. All of the above factors placed into a performance, allow for the appeal of live performance. The process produces
+      a product whether that be a good or bas reaction. Overall, live performance alone is visually, mentally and physically stimulating and when you add a factor in such as electronics, adds to the works complexity and also adds another stimulating factor in, "how'd- they- do- it?".
+  4. Presence: </i> "physical co-presence of performers and audience; temporal simultaneity and reception; experience in the moment" (Frengel, 2)
+    "how'd- they- do- it?": A shift of attention towards function and allowing a spectator to see and understand the "human- machine interaction".
+  5. Electroacoustic:
+    - Typically don't involve a live performer on stage
+    - What can be gained when sound sources and mechanics cannot be seen?
+    - When performers are involved, a lot of coordination has to take place as there is highly limited flexibility.
+    - Electroacoustic music tries to free the performer from these constraints.
   6. The Instrumental Model:
     - The use of an instrument to create a more organic process, product interaction. This provides a certain level of consistency
     - as well to help develop, express, and react.
 
 
-<fieldset>
-<p1> 1/28 </p1>
-<p1> <b> Understanding Interactive Systems by Jon Drummond </b>
-</br> Interactive defines a reactive system that includes an audience or participation in some manner.
-</br>
-<ol>  <i> Introduction </i>
-</br> <li> Combining mediums and being able to work among similar rtists to creat new and exciting pieces. </li>
-</br> <li> The ability to provide experiences for an assortment of audiences, musical and non- musical.</li>
-</br> <li> Interactive music systems used in a variety of systems.</li>
-</ol>
-<ol>  <i> Definitions </i>
-</br> <li> Traditional roles in interactive composition?</li>
-</br> <li> Shared processes and products- human and machine interactions.</li>
-</br> <li> Musical Output as a result of shared interactions.</li>
-</ol>
-<ol>  <i> Classifications and Models </i>
-</br> <li> Intention and use. </li>
-</ol>
-<ol>  System Anatomy
-</br> <li> Sensing, processing, and response </li>
-</ol>
-</p1>
-</fieldset>
+### 1/28
+Understanding Interactive Systems by Jon Drummond
+Interactive defines a reactive system that includes an audience or participation in some manner.
 
-<fieldset>
-<p1> 1/29 </p1>
-<p1> In class notes </p1>
-</br> <p1> Genres are important because they give us a form of communication in a topic we can't quite evaluate on a normal scale.
-</br> A reactive and interactive system that uses the agents of Preformance, Ausdeince and technology to create an experience or painting.
-</br> Trying to effect state changes in another agent (at least two agent).
-</p1>
-</br> <p8> Dr. Musick's definintions:
-<ul>
-</br><li> Interactive: A system, with at least two agents, who have an equal oppurtunity of effecting state changes in every other agent.</li>
-</br><li> Reactive: A one- way sharing of information, with the goal of changing something else. </li>
-</br><li> Dynamical: </li>
-</br><li> System: Some sort of organized group of things, that do something. </li>
-</br><li> Liveness: The perception of whether something is actually occuring in real- time? (i.e. the email problem) </li>
-</ul>
-</p8>
-<p1> </br> A tool vs. Instrument -- What is technology?
-</br> What is a visual instrument?
-</br>
-</br>
-<p8> Types of Systems:
-</br> <ol> Interactive System Models:
-</br> <li> The instrumental model: Reactive system, something that a preformer understands its possible outputs. </li>
-</br> <li> The conductor model: Moderator of output information, typically includes fixed- media, controls timing, not at the micro- level of the instrument. </li>
-</br> <li> The reflexive model: Starting to introduce true agency, responds to something at the input, may make it's own choices, however, still expected results. </li>
-</br> <li> The virtual preformer model: working towards full agency. </li>
-</ol> <i> System Design Terms </i>
-</br> <li> Affordance: </li>
-</br> <li> Constraints: </li>
-</br> <li> Agency: </li>
-</br> <li> </li>
-</br> <li> </li>
-</fieldset>
-</div>
+Introduction
+1. Combining mediums and being able to work among similar artists to create new and exciting pieces.
+2. The ability to provide experiences for an assortment of audiences, musical and non- musical.
+3. Interactive music systems used in a variety of systems.
 
-<div class="main">
-<div class="hero-image2">
-<div class="hero-text2">
-<h1> Personal Notes and Research </h1>
-</div>
-</div>
-<fieldset>
-<p2> 1/23 </p2>
-<p2> <b> Interactive Preformance Examples:</b> </p2>
-<p>
-<img src="./images/empsr.jpg" alt="cover" width="600" height="400" align="align-right"/>
-</p>
-<p2>
-An example of interactive prformance is the Experience Music Project in Seattle, WA.
-In this large crafted piece of art, the experience is designed and left up to the participant. Whether the participaant chooses to
-react to the music playing in the main hall or experiment with the sound deisign room where one or more people can play with
-instruments and record their own tracks is their personal choice. No mattyer what the decision, their participation will produce their
-outcome and make every participants experience within the interactive preformance exhibit different.
-</br>
-Agents: Particpiants and Instruments
-</p2>
-</fieldset>
-</div>
+Definitions
+1. Traditional roles in interactive composition?
+2. Shared processes and products- human and machine interactions.
+3. Musical Output as a result of shared interactions.
 
-<div class="main">
-<div class="hero-image3">
-<div class="hero-text3">
-<h1> Projects </h1>
-</div>
-</div>
+Classifications and Models
+1. Intention and use.
 
-<fieldset>
-<p3> <b> Project 2 </b> </p3>
-<p3> Sound Poetry:
-</br> Launch: Wednesday, February 21st
-</br> Sketch due: Wednesday, February 28th
-</br> Project due: Wednesday, March 14th
-</br> Documentation due: Monday, March 19th
-</br>
-</br> In this project, I will be building upon my sketch of taking in amplitude ratings from a microphone (stereo) and outputting it in the form of words. Depending on what
-level of amplitude comes into the system, the sketch will "upload" a word and as you begin using different voices and sounds, the sketch will create a flow of words. Sometimes
-your poetry will make sense, and other times the words will come out in very random and unreadable manners.The main concept of this is that you'll be creating your own structure and as you figure out,
-as the preformer, what sounds make certain words and levels, you can structure your own protry or sentences.
-</br> In a live preformance or interactive preformance capacity, this project could be used to tell a story, program the words to certain sounds. If an instrumental only preformer were
+System Anatomy
+1. Sensing, processing, and response
+
+
+### 1/29
+In class notes
+Genres are important because they give us a form of communication in a topic we can't quite evaluate on a normal scale.
+A reactive and interactive system that uses the agents of Performance, Audience and technology to create an experience or painting.
+Trying to effect state changes in another agent (at least two agent).
+
+Dr. Musick's definitions:
+
+1. Interactive: A system, with at least two agents, who have an equal oppurtunity of effecting state changes in every other agent.
+2. Reactive: A one- way sharing of information, with the goal of changing something else.
+3. Dynamical:
+4. System: Some sort of organized group of things, that do something.
+5. Liveness: The perception of whether something is actually occuring in real- time? (i.e. the email problem)
+
+A tool vs. Instrument -- What is technology?
+What is a visual instrument?
+
+Types of Systems:
+Interactive System Models:
+1. The instrumental model: Reactive system, something that a performer understands its possible outputs.
+2. The conductor model: Moderator of output information, typically includes fixed- media, controls timing, not at the micro- level of the instrument.
+3. The reflexive model: Starting to introduce true agency, responds to something at the input, may make it's own choices, however, still expected results.
+4. The virtual performer model: working towards full agency.
+
+System Design Terms
+1. Affordance:
+2. Constraints:
+3. Agency:
+
+
+# Personal Notes and Research
+
+## 1/23
+Interactive Performance Examples:
+
+(Example)["./images/empsr.jpg"]
+
+An example of interactive performance is the Experience Music Project in Seattle, WA.
+In this large crafted piece of art, the experience is designed and left up to the participant. Whether the participant chooses to
+react to the music playing in the main hall or experiment with the sound design room where one or more people can play with
+instruments and record their own tracks is their personal choice. No matter what the decision, their participation will produce their
+outcome and make every participants experience within the interactive performance exhibit different.
+
+Agents: Participants and Instruments
+
+# Projects
+
+#### Project 2
+#### Sound Poetry:
+- Launch: Wednesday, February 21st
+- Sketch due: Wednesday, February 28th
+- Project due: Wednesday, March 14th
+- Documentation due: Monday, March 19th
+
+ 1. In this project, I will be building upon my sketch of taking in amplitude ratings from a microphone (stereo) and outputting it in the form of words. Depending on what level of amplitude comes into the system, the sketch will "upload" a word and as you begin using different voices and sounds, the sketch will create a flow of words. Sometimes your poetry will make sense, and other times the words will come out in very random and unreadable manners.The main concept of this is that you'll be creating your own structure and as you figure out,
+as the performer, what sounds make certain words and levels, you can structure your own poetry or sentences.
+2. In a live performance or interactive performance capacity, this project could be used to tell a story, program the words to certain sounds. If an instrumental only performer were
 to play this sketch along with their music, the input of sound would create the lyrics that go to the song.
-</br> Agents/ Technology: Procesing Sketch, Microphone (could be from the computer or external- depends on resources), and preformers (myself or classmates).
-<fieldset>
-  <p3> This is a copy of the code that I am building off of </p3>
-  <p3>
-  </br>import ddf.minim.*;
+3. Agents/ Technology: Processing Sketch, Microphone (could be from the computer or external- depends on resources), and performers (myself or classmates).
 
-</br> AudioPlayer player;
-</br>Minim minim;
+This is a copy of the code that I am building off of
 
-</br>void setup(){
-  </br>size(1400, 1200, P2D);
+```
+import ddf.minim.*;
+AudioPlayer player;
+Minim minim;
 
-  </br>minim = new Minim(this);
-  </br>player = minim.loadFile("./p1_practice_1.wav", 2048);
-  </br>player.play();
-  </br>player.loop();
-</br>}
+void setup(){
+  size(1400, 1200, P2D);
 
-</br>void draw(){
-  </br>background(0);
-  </br>stroke(255);
-  </br>line(0,200,width,200);
-  </br>int count = 0;
-  </br>int lowTot = 0;
-  </br>int medTot = 0;
-  </br>int hiiTot = 0;
-  </br>for (int i = 0; i < player.left.size()/3.0; i+=5){
-    </br>lowTot+= (abs(player.left.get(i)) * 10 );
-    </br>count++;
-  </br>}
-  </br>fill( map( lowTot, 0, count * 50, 0, 255 ), 0, 0);
-  </br>noStroke();
-  </br>text("A",0,0,40,40);
-  </br>stroke(255);
-  </br>strokeWeight(2);
+  minim = new Minim(this);
+  player = minim.loadFile("./p1_practice_1.wav", 2048);
+  player.play();
+  player.loop();
+}
 
-  </br>for (int i = 0; i < player.left.size()/3.0; i+=5){
-    </br>medTot+= (abs(player.left.get(i)) * 5 );
-    </br>count++;
-  </br>}
-  </br>fill( map( medTot, 0, count * 50, 0, 255 ), 0, 0);
-  </br>noStroke();
-  </br>text("B", 0,0,60,60);
-  </br>stroke(245);
-  </br>strokeWeight(2);
+void draw(){
+  background(0);
+  stroke(255);
+  line(0,200,width,200);
+  int count = 0;
+  int lowTot = 0;
+  int medTot = 0;
+  int hiiTot = 0;
+  for (int i = 0; i < player.left.size()/3.0; i+=5){
+    lowTot+= (abs(player.left.get(i)) * 10 );
+    count++;
+  }
+  fill( map( lowTot, 0, count * 50, 0, 255 ), 0, 0);
+  noStroke();
+  text("A",0,0,40,40);
+  stroke(255);
+  strokeWeight(2);
 
-  </br>for (int i = 0; i < player.left.size()/3.0; i+=5){
-    </br>hiiTot+= (abs(player.left.get(i)) * 30 );
-    </br>count++;
-  </br>}
-  </br>fill( map( hiiTot, 0, count * 50, 0, 255 ), 0, 0);
-  </br>noStroke();
-  </br>text("C", 0,0,50,50);
-  </br>stroke(120);
-  </br>strokeWeight(2);
+  for (int i = 0; i < player.left.size()/3.0; i+=5){
+    medTot+= (abs(player.left.get(i)) * 5 );
+    count++;
+  }
+  fill( map( medTot, 0, count * 50, 0, 255 ), 0, 0);
+  noStroke();
+  text("B", 0,0,60,60);
+  stroke(245);
+  strokeWeight(2);
 
-  </br>for (int i = 0; i < player.left.size()-1; i+=5)
-  </br>{
-    </br>line(i, 50 + player.left.get(i)*50, i+1, 50 + player.left.get(i+1)*50);
-    </br>line(i, 150 + player.right.get(i)*50, i+1, 150 + player.right.get(i+1)*50);
-    </br>point( 2*i, 100 + player.left.get(i)*50 );
+  <for (int i = 0; i < player.left.size()/3.0; i+=5){
+    hiiTot+= (abs(player.left.get(i)) * 30 );
+    count++;
+  }
+  fill( map( hiiTot, 0, count * 50, 0, 255 ), 0, 0);
+  noStroke();
+  text("C", 0,0,50,50);
+  stroke(120);
+  strokeWeight(2);
 
-  </br>}
-</br>}
+  for (int i = 0; i < player.left.size()-1; i+=5)
+  {
+    line(i, 50 + player.left.get(i)*50, i+1, 50 + player.left.get(i+1)*50);
+    line(i, 150 + player.right.get(i)*50, i+1, 150 + player.right.get(i+1)*50);
+    point( 2*i, 100 + player.left.get(i)*50 );
 
-</br>void stop(){
-  </br>player.close();
-  </br>minim.stop();
-  </br>super.stop();
-</br>
-<p3>
-  <img src="./images/p2_example.png" alt="P2 Example" width="1000" height="700">
-</p3>
-</p3>
-</fieldset>
-<p3> Examples of projects similar to this:
-</br> https://www.youtube.com/watch?v=0C94-rGLIDo
-</br>
-</br> Other Ideas:
-</br> - Have the ability to record and save data from the sessions
-</br> - Include a few instruments for preformers/ audience to play around with
-</p3>
-</p3>
-</fieldset>
-</div>
 
-<div class="footer">
-<footer>
-<p6>
-A chronicle of notes, ideas, projects, and more, of and relating to Interactive Preformance.
-</p6>
-</footer>
-</div>
+void stop(){
+  player.close();
+  minim.stop();
+  super.stop();
+  ```
 
-<div class="parallax"> </div>
--->
-</body>
-</html>
+  (P2 example)[]<img src="./images/p2_example.png" ]
+
+Examples of projects similar to this:
+https://www.youtube.com/watch?v=0C94-rGLIDo
+Other Ideas:
+- Have the ability to record and save data from the sessions
+- Include a few instruments for performers/ audience to play around with
+
+
+
+A chronicle of notes, ideas, projects, and more, of and relating to Interactive Performance.
