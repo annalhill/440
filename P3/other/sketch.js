@@ -3,6 +3,11 @@ var amp;
 
 var scale = 1.0;
 
+var beatHoldFrames = 30;
+var beatThreshold = 0.11;
+var beatCutoff = 0;
+var beatDecayRate = 0.98;
+var framesSinceLastBeat = 0;
 
 let option = 5
 function setup() {
@@ -13,11 +18,17 @@ function setup() {
 
   amp = new p5.Amplitude();
   amp.setInput(mic);
-  amplitude.smooth(0.9);
+  amp.smooth(0.9);
 
   fft = new p5.FFT();
   fft.setInput(mic);
+  fft.smooth(0.9);
 
+}
+
+function windowSize() {
+  sizeCanvas(windowWidth, windowHeight);
+  center = { x: windowWidth / 2, y: windowHeight / 2 };
 }
 
 function draw() {
@@ -117,7 +128,22 @@ else if (option == 5) {
 
 }
 
-
+function detectBeat(level) {
+  if (level > beatCutoff && level > beatThreshold) {
+    rotation += random(0, 25);
+    beatCutoff = level * 1.2;
+    framesSinceLastBeat = 0;
+  }
+  else {
+    if (framesSinceLastBeat <= beatHoldFrames) {
+      framesSinceLastBeat++;
+    }
+    else {
+      beatCutoff *= beatDecayRate;
+      beatCutoff = Math.max(beatCutoff, beatThreshold);
+    }
+  }
+}
 
 
 function mousePressed() {
