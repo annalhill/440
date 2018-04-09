@@ -1,13 +1,18 @@
 var mic;
 var amp;
 
-var scale = 1.0;
+var soundScale = 1.0;
 
 var beatHoldFrames = 30;
 var beatThreshold = 0.11;
 var beatCutoff = 0;
 var beatDecayRate = 0.98;
 var framesSinceLastBeat = 0;
+
+var noiseFloorLevel = 0;
+let avgNF = 0;
+let avgNFCnt = 0;
+let findingNF = false;
 
 let option = 5
 function setup() {
@@ -31,100 +36,131 @@ function windowSize() {
   center = { x: windowWidth / 2, y: windowHeight / 2 };
 }
 
+
+let testMove = 0;
+
 function draw() {
+
+// With the key 'A' pressed, the function is calculatign the average of the noise floor level and spitting htese numbers out into the console for reference
+  if(keyIsPressed && key == 'a'){
+    if(!findingNF){
+      avgNF = 0;
+      avgNFCnt = 0;
+      findingNF = true;
+    }
+    avgNF += amp.getLevel();
+    avgNFCnt++;
+    console.log(avgNF);
+  } else {
+    if(avgNF > 0 && findingNF){
+      avgNF = avgNF / avgNFCnt;
+      avgNF*= 1.1;
+      noiseFloorLevel = avgNF;
+      console.log("nf", noiseFloorLevel);
+    }
+    findingNF = false;
+  }
+
   center = { x: windowWidth / 2, y: windowHeight / 2 };
 
   createCanvas(windowWidth, windowHeight);
   rectMode(CENTER);
 
-	var spectrum = fft.analyze();
+  var spectrum = fft.analyze();
 
-	let numPerRow = 50;
-	let discoSize = 10;
-	let pad = width / numPerRow;
+  let numPerRow = 50;
+  let discoSize = 10;
+  let pad = width / numPerRow;
 
-  background(255);
+  background(0);
   //let density = map(mouseX, 0, width, 20, 50);
 
-// Option One! - rectangles changing color
-if (option == 1) {
-  for ( let y = discoSize; y < height; y += pad) {
-    for ( let x = discoSize; x < width; x += pad) {
-      fill( 255, 0 );
-      fill(0, 255 );
-      rect( x, y, scale, discoSize );
-      scale = map(amp.getLevel(), 0, 1.0, 10, width);
+  soundScale = map(amp.getLevel(), noiseFloorLevel, 1.0, 10, width);
+
+  // Option One! - rectangles changing color
+  if (option == 1) {
+    push();
+    scale(0.5, 1.3);
+    translate(width*0.1, height*0.3);
+    rotate(PI*0.2);
+    for ( let y = discoSize; y < height; y += pad) {
+      for ( let x = discoSize; x < width; x += pad) {
+        fill(9, 36, 33);
+        fill( 9, 36, 33 );
+        rect( x, discoSize, soundScale, y );
+        // soundScale = map(amp.getLevel(), 0, 1.0, 10, width);
+      }
     }
-  }
+    pop();
 
   }
 
 
-// Option Two!
-// By adding else, I am able to use the bottom function to call in sandboxes of code that aren't necessarily option 1
-else if (option == 2) {
-  for(var y = discoSize; y < height; y = y + pad ) {
-  for(var x = discoSize; x < width; x = x + pad ){
-      fill(220, 140, random(255) );
-      ellipse(x/scale, y, discoSize, discoSize);
-      discoSize = Math.abs(random(10, 5)) | 0;
-      scale = map(amp.getLevel(), 0, 1.0, 10, width);
+  // Option Two!
+  // By adding else, I am able to use the bottom function to call in sandboxes of code that aren't necessarily option 1
+  else if (option == 2) {
+    push();
+    scale(0.5, 0.3);
+    translate(width*0.1, height*0.3);
+    rotate(PI*0.2);
+    for(var y = discoSize; y < height; y = y + pad ) {
+      for(var x = discoSize; x < width; x = x + pad ){
+        fill(220, 140, random(255) );
+        ellipse(x/soundScale, y, discoSize, discoSize);
+        discoSize = Math.abs(random(10, 5)) | 0;
 
-  //push();
-  //for(var y = discoSize; y < height; y = y + pad ) {
-  //for(var x = discoSize; x < width; x = x + pad ){
-  //    fill(220, 140, random(255) );
-  //    ellipse(x, y/ scale, discoSize, discoSize);
-  //    discoSize = Math.abs(random(10, 5)) | 0;
-  //    scale = map(amp.getLevel(), 0, 1.0, 10, width);
-  //pop();
+
+      }
+    }
+    pop();
   }
 
-  }
-
-}
 
 
+  // Option Three!- lots of rectangles changing colors
+  else if (option == 3) {
+    push();
+    scale(0.5, 0.3);
+    translate(width*0.1 + testMove++, height*0.3);
+    rotate(PI*0.2);
+    for(var y = discoSize; y < height; y = y + pad ) {
+      for(var x = discoSize; x < width; x = x + pad ){
+        fill(120, 280, random(255) );
+        rect(x, y, discoSize, soundScale);
+        discoSize = Math.abs(random(5, 10)) | 0;
+        // soundScale = map(amp.getLevel(), noiseFloorLevel, 1.0, 10, width);
+      }
 
-// Option Three!- lots of rectangles changing colors
-else if (option == 3) {
-  for(var y = discoSize; y < height; y = y + pad ) {
-  for(var x = discoSize; x < width; x = x + pad ){
-      fill(120, 280, random(255) );
-      rect(x, y, discoSize, scale);
-      discoSize = Math.abs(random(5, 10)) | 0;
-      scale = map(amp.getLevel(), 0, 1.0, 10, width);
-  }
-
-  }
-
-}
-
-else if (option == 4) {
-  for(var y = circle; y < height; y = y + pad ) {
-  for(var x = circle; x < width; x = x + pad ){
-      fill(120, 280, random(255) );
-      rect(x, y, discoSize, scale);
-      discoSize = Math.abs(random(5, 10)) | 0;
-      scale = map(amp.getLevel(), 0, 1.0, 10, width);
-  }
+    }
+    pop();
 
   }
 
-}
+  else if (option == 4) {
+    for(var y = circle; y < height; y = y + pad ) {
+      for(var x = circle; x < width; x = x + pad ){
+        fill(120, 280, random(255) );
+        rect(x, y, discoSize, soundScale);
+        discoSize = Math.abs(random(5, 10)) | 0;
+        // soundScale = map(amp.getLevel(), noiseFloorLevel, 1.0, 10, width);
+      }
 
-else if (option == 5) {
-  for(var y = discoSize; y < height; y = y + pad ) {
-  for(var x = discoSize; x < width; x = x + pad ){
-      fill(120, 280, random(255) );
-      rect(x, y, discoSize, scale);
-      discoSize = Math.abs(random(5, 10)) | 0;
-      scale = map(amp.getLevel(), 0, 1.0, 10, width);
+    }
+
   }
 
-  }
+  else if (option == 5) {
+    for(var y = discoSize; y < height; y = y + pad ) {
+      for(var x = discoSize; x < width; x = x + pad ){
+        fill(120, 280, random(255) );
+        rect(x, y, discoSize, soundScale);
+        discoSize = Math.abs(random(5, 10)) | 0;
+        // soundScale = map(amp.getLevel(), noiseFloorLevel, 1.0, 10, width);
+      }
 
-}
+    }
+
+  }
 
 }
 
@@ -144,11 +180,18 @@ function detectBeat(level) {
     }
   }
 }
-
+//
+// function keyPressed() {
+//   if (keyCode == 65) {
+//     noiseFloorLevel = amp.getLevel();
+//     console.log(noiseFloorLevel);
+//
+//   }
+// }
 
 function mousePressed() {
   option++;
   if (option > 3) {
-		option = 1;
-	}
+    option = 1;
+  }
 }
