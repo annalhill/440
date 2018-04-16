@@ -8,9 +8,12 @@
 1. Related Works:
 I really wanted to find as many works out there as I could to inspire me not only in visual aesthetics but also what I am capable of creating in P5.js, a relatively new program for me. Luckily, there are a lot of open source resources out there for me to reference. Below are a few of the sources I've explored and what intrigued me about them as well as what I would take away from them to incorporate in my own visualizer.
 
--
--
--
+- B Lack, Open Processing P5.js Sketch, Circular Processing Network, September 25, 2013, Visited April 14, 2018
+https://www.openprocessing.org/sketch/111888
+- Tina Anastopoulos, P5.js sketch, Fan Loader, Visited April 10, 2018
+https://www.kode.to/TWAIN/fan-loader-mWjPKm
+- Nairako, Visualization art using p5.js based on the sound of waves at Yuigahama 1 of 2, November 7, 2015, Visited April 16, 2018
+https://www.youtube.com/watch?v=mBPAtibRb1E
 
 2. Initial Goals:
 Brainstorming going into the project:
@@ -27,4 +30,4 @@ Ideas as I start project three:
   - "Drawing"?
 
 3. Final Goals and Concept:
-The idea behind this project was simply to try and find a visual aid for audio input via beat detection, and amplitude scale. The project initially was going to react to the performer and their choice of performance but the idea has developed into how communication between technology and human interaction can influence each other. One way to do this is to take the performer and have them play whatever they want with the visual components playing behind them, this would involve very little interaction. The better idea is to have the performer and the screen looking at each other. The program will continuously be listening to the audio input and reacting to the sounds it's intaking. On the other side, the performer will be watching the visuals and reacting to them. If there are lighter colors, maybe play a softer sound, darker colors, a heavier sound, etc. 
+The idea behind this project was simply to try and find a visual aid for audio input via beat detection, and amplitude scale. The project initially was going to react to the performer and their choice of performance but the idea has developed into how communication between technology and human interaction can influence each other. One way to do this is to take the performer and have them play whatever they want with the visual components playing behind them, this would involve very little interaction. The better idea is to have the performer and the screen looking at each other. The program will continuously be listening to the audio input and reacting to the sounds it's intaking. On the other side, the performer will be watching the visuals and reacting to them. If there are lighter colors, maybe play a softer sound, darker colors, a heavier sound, etc.
