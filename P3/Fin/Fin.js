@@ -105,7 +105,7 @@ function draw() {
 
   soundScale = map(amp.getLevel(), noiseFloorLevel, 1.0, 10, width);
 
-  // Option 1: 2.js - Rings
+  // Option 1: 2.js - Rings, C
   if (option == 1) {
     push();
     for (var i = 0; i < circles; i++) {
@@ -123,7 +123,7 @@ function draw() {
 
 
 
-  // Option 2: 3.js- River of Hexagons
+  // Option 2: 3.js- River of Hexagons, V
   if (option == 2) {
     push();
     for (var x = 0; x <= width + size; x += size * 2) {
@@ -193,7 +193,7 @@ function draw() {
     pop();
 
   }
-
+// Option 5: Jiggly Squares, M
   if (option == 5) {
     //push();
     for (var y = discoSize; y < height; y = y + pad) {
@@ -211,6 +211,7 @@ function draw() {
 
   }
 
+// Option 6: Black Start and End Screen, P
   if (option == 6) {
     push();
     Fill(0);
