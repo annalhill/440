@@ -211,6 +211,12 @@ function draw() {
 
   }
 
+  if (option == 6) {
+    push();
+    Fill(0);
+    pop();
+
+  }
 
   function makeRiver(a, b, size) {
     var diff =
@@ -288,6 +294,8 @@ function draw() {
       option = 4;
     } else if (key === 'M') {
       option = 5;
+    } else if (key === 'P') {
+      option = 6;
   //  } else {
   //    option = (option+1)%6;
   //    console.log(option);
