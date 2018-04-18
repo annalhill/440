@@ -2,7 +2,7 @@
 ## Fin (Final Draft of Project 3)
 
 ## Title: Talking without Words, Cybernetic Communication, Vibiz
-## Date: April 25, 2018
+## Date: April 25, 2018: 6/7 PM
 ### University of Montana Interactive Performance Spring 2018
 
 1. Related Works:
