@@ -31,3 +31,12 @@ Ideas as I start project three:
 
 3. Final Goals and Concept:
 The idea behind this project was simply to try and find a visual aid for audio input via beat detection, and amplitude scale. The project initially was going to react to the performer and their choice of performance but the idea has developed into how communication between technology and human interaction can influence each other. One way to do this is to take the performer and have them play whatever they want with the visual components playing behind them, this would involve very little interaction. The better idea is to have the performer and the screen looking at each other. The program will continuously be listening to the audio input and reacting to the sounds it's intaking. On the other side, the performer will be watching the visuals and reacting to them. If there are lighter colors, maybe play a softer sound, darker colors, a heavier sound, etc.
+
+4. Draft Notes:
+Some things that I need to consider before the final presentation...
+- Run through with performers so they know how the performance will go
+- Microphone to speakers to project the performers voices
+- How will the project be introduced
+- How will the performance come to an end
+  - Cue for performers to stop
+  - return to black screen
