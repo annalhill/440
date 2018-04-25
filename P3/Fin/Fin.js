@@ -111,7 +111,8 @@ function draw() {
     for (var i = 0; i < circles; i++) {
       var size = i * 35;
       var weight = map(sin(delta + TWO_PI / circles * soundScale), -1, 1, 1, 16);
-      // fill (120, 280, random(255));
+      fill (120, 280, random(255));
+      noFill();
       stroke(0,200,200);
       strokeWeight(weight);
       ellipse(width / 2, height / 2, size, soundScale);
@@ -144,7 +145,7 @@ function draw() {
 
 
 
-  // Option 3: Polygon of small hjiggly squares, B
+  // Option 3: Polygon of small jiggly squares, B
   if (option == 3) {
     push();
     scale(0.5, 0.3);
@@ -171,7 +172,7 @@ function draw() {
         fill(180, 20, random(255));
         translate(width*0.5, height*0.5);
         rotate(radians(angle));
-        ellipse(soundScale , soundScale, 100, 200);
+        ellipse(soundScale , 200, 100, soundScale);
 
         angle = angle + 40;
 
@@ -214,7 +215,7 @@ function draw() {
 // Option 6: Black Start and End Screen, P
   if (option == 6) {
     push();
-    Fill(0);
+    fill(0);
     pop();
 
   }
