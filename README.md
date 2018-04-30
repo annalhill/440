@@ -216,3 +216,9 @@ Other Ideas:
 
 
 A chronicle of notes, ideas, projects, and more, of and relating to Interactive Performance.
+
+### Questions to ask Dr Musick in meeting:
+- Graduate schools and programs to potentially pursue
+- Creative coding final?
+- How can I stay involved in creative coding in the coming years? Lab?
+- Building a portfolio in creative coding?
