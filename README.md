@@ -113,7 +113,7 @@ System Design Terms
 ## 1/23
 Interactive Performance Examples:
 
-(Example)["./images/empsr.jpg"]
+[Example]("./images/empsr.jpg")
 
 An example of interactive performance is the Experience Music Project in Seattle, WA.
 In this large crafted piece of art, the experience is designed and left up to the participant. Whether the participant chooses to
@@ -217,7 +217,7 @@ void stop(){
   super.stop();
   ```
 
-  (P2 example)[img src="./images/p2_example.png"]
+  [P2 example](img src="./images/p2_example.png")
 
 Examples of projects similar to this:
 https://www.youtube.com/watch?v=0C94-rGLIDo
