@@ -125,6 +125,18 @@ Agents: Participants and Instruments
 
 # Projects
 
+#### Project 1
+#### Reactive Letters
+
+1. In this project I am looking to create a sound interactive blackboard. In it, based upon amplitude and/ or frequency, you will be able to make letters react and show up on the screen within a sound wave.
+2. As an interactive performance, this piece allows the visuals to react to whatever the performer is saying, yelling, singing, or playing.
+3. Agents/ Technology: Computer, Microphone, Processing, Performers
+
+Related work:
+    - https://www.youtube.com/watch?v=ZmmTA9N5ySw - In this basic production, the word is reacting to music playing. It was built in after effects but the audio input to the system allows the word to "jump".
+    - https://www.openprocessing.org/sketch/500150 - This project is using color changing colors, could be applied to an audio reactive process
+
+
 #### Project 2
 #### Sound Poetry:
 - Launch: Wednesday, February 21st
@@ -205,7 +217,7 @@ void stop(){
   super.stop();
   ```
 
-  (P2 example)[]<img src="./images/p2_example.png" ]
+  (P2 example)[img src="./images/p2_example.png"]
 
 Examples of projects similar to this:
 https://www.youtube.com/watch?v=0C94-rGLIDo
@@ -217,7 +229,7 @@ Other Ideas:
 
 A chronicle of notes, ideas, projects, and more, of and relating to Interactive Performance.
 
-### Questions to ask Dr Musick in meeting:
+# Questions to ask Dr Musick in meeting:
 - Graduate schools and programs to potentially pursue
 - Creative coding final?
 - How can I stay involved in creative coding in the coming years? Lab?
