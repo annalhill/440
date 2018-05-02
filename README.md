@@ -217,7 +217,7 @@ void stop(){
   super.stop();
   ```
 
-  [P2 example](img src="./images/p2_example.png")
+[P2 example](img src="./images/p2_example.png")
 
 Examples of projects similar to this:
 https://www.youtube.com/watch?v=0C94-rGLIDo
